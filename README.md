@@ -3,14 +3,20 @@ Newton’s Heist is a gravity manipulation puzzle platformer with colorful tron 
 
 # Credits
 Brad Guerrero - Co-Lead/Programmer
+
 Hunter Weeks - Co-Lead, Programmer, Composer
+
 Victor Orozco - Programmer
+
 Anthony Cano - Artist
+
 Anthony Sirimarco - Level Designer
 
 ### Special Thanks
 Justin Miranda - Composer
+
 Roger Dalke, Daniel Guitierrez
+
 mhousse1247's [Custom Gravity Plugin](https://github.com/mhousse1247/UE4-CustomGravityPlugin)
 
 # Recognition
