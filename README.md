@@ -21,3 +21,6 @@ mhousse1247's [Custom Gravity Plugin](https://github.com/mhousse1247/UE4-CustomG
 
 # Recognition
 IEEE Gamesig 2017 Finalists
+
+# Video
+[![Newton's Heist IEEEGamesig Video](https://img.youtube.com/vi/5TPdz_vghWM/0.jpg)](https://www.youtube.com/watch?v=5TPdz_vghWM)
