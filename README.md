@@ -1,4 +1,4 @@
-# NewtonsHeist
+# Newton's Heist
 Newton’s Heist is a gravity manipulation puzzle platformer with colorful tron inspired aesthetics. You play as a lowly thief named Kepler who has been hired to steal a device known as the “apple”. Upon reaching the apple, Kepler gains the power to manipulate his own gravity which his ally Newton exploits to gain access to higher security facilities in order to save a special someone. The game mainly consists of manipulating Kepler’s gravity to intelligently maneuver his way through a puzzle platforming adventure.
 
 # Credits
