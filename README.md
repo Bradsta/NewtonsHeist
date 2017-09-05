@@ -4,7 +4,7 @@ Newton’s Heist is a gravity manipulation puzzle platformer with colorful tron 
 # Credits
 Brad Guerrero - Co-Lead/Programmer
 
-Hunter Weeks - Co-Lead, Programmer, Composer
+Hunter Weeks - Co-Lead, Programmer, Sound Designer, Technical Artist
 
 Victor Orozco - Programmer
 
